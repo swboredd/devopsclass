@@ -1,0 +1,22 @@
+hello this is commi-1....!!!
+hello this is commi-2....!!!
+hello this is commi-3....!!!
+hello this is commi-4....!!!
+hello this is commi-5....!!!
+
+C:/github/.git/COMMIT_EDITMSG
+C:/github/.git/COMMIT_EDITMSGC:/github/.git/COMMIT_EDITMSG
+C:/github/.git/COMMIT_EDITMSG
+C:/github/.git/COMMIT_EDITMSG
+
+ C:/github/.git/COMMIT_EDITMSGC:/github/.git/COMMIT_EDITMSG
+ C:/github/.git/COMMIT_EDITMSGC:/github/.git/COMMIT_EDITMSGC:/github/.git/COMMIT_EDITMSG
+ add 
+
+ C:/github/.git/COMMIT_EDITMSGC:/github/.git/COMMIT_EDITMSG
+ C:/github/.git/COMMIT_EDITMSGC:/github/.git/COMMIT_EDITMSGC:/github/.git/COMMIT_EDITMSG
+ hello this is commi-1....!!!
+hello this is commi-2....!!!
+hello this is commi-3....!!!
+hello this is commi-4....!!!
+hello this is commi-5....!!!
